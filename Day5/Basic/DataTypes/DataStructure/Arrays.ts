@@ -1,0 +1,10 @@
+let purchaselist =["banana","apple","mango","orange"]
+console.log(purchaselist)
+purchaselist.push("pineapple")
+console.log(purchaselist)
+purchaselist.unshift("grapes")
+console.log(purchaselist)
+purchaselist.pop()
+console.log(purchaselist)
+purchaselist.shift()
+console.log(purchaselist)
